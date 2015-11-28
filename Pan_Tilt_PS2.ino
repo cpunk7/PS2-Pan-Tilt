@@ -16,10 +16,6 @@ PS2 CONTROLLER to ARDUINO: BLUE->12; BROWN->11; ORANGE->10; YELLOW->9; RED->3.3V
 PAN SERVO to ARDUINO:  SIGNAL -> 6; POS -> 5V; NEG -> GND  (it's good practice to power servos from non-arduino source)
 TILT SERVO to ARDUINO: SIGNAL -> 5; POS -> 5V; NEG -> GND
 
-  
-    - TO DO  - 
-      Add note about inverting y axis
-      Note about removing serial output 
 
 */
 
